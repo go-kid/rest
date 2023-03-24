@@ -1,2 +1,2 @@
-# rest
-restful web framework base on go-kid IoC
+# kid-web
+A web framework depend on kid-ioc
